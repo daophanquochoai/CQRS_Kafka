@@ -1,0 +1,13 @@
+package com.doctorhoai.prductcommmandservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PrductCommmandServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PrductCommmandServiceApplication.class, args);
+	}
+
+}
